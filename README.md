@@ -36,6 +36,37 @@ https://github.com/user-attachments/assets/7fafa805-3bd9-480a-9016-f1e73d88fe2f
 
 # Employee Details App
 
+
+* Employee Details Description
+
+👉 Personal Information:
+    Full Name: [First Name],
+    Employee ID: [Unique Identifier]
+
+👉 Job Information:
+    Position/Title: [Job Title]
+    Department: [Department Name]
+    Manager/Supervisor: [Name and Title of Direct Manager]
+
+*  Features for Managing Employee Details
+  
+1. Add Details:
+
+👉 Function: Add a new employee to the system.
+
+👉 Process:
+
+* Input Fields: [Provide fields for all the personal, job, and other relevant information listed above.]
+* Validation: Ensure all mandatory fields are filled and data formats are correct.
+* Save: Save the new employee's details to the database.
+
+ 2. Delete Details:
+  
+  👉 Function: Remove an employee’s details from the system.
+
+3. Update Details:
+
+👉 Function: Modify an existing employee’s information.
 <p>
   <img src="https://github.com/user-attachments/assets/706a66a3-4b1a-435f-9dea-bb932546da7b" height=28% width=32%>
     <img src="https://github.com/user-attachments/assets/c4ac011d-d1f9-4dd4-945d-2fb590e57faa" height=28% width=32%>
