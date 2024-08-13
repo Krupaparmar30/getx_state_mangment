@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/7fafa805-3bd9-480a-9016-f1e73d88fe2f
 
 # Employee Details App
 
-
+* This framework should give you a solid foundation for managing employee details with capabilities to add, delete, and update records.
 * Employee Details Description
 
 👉 Personal Information:
