@@ -1,6 +1,9 @@
 
-# getx_state_mangment
+# Intro to State Management with GetX
 
+> GetX is a popular state management solution for Flutter applications. It provides a simple and efficient way to manage the state of your application without the need for complex boilerplate code. GetX offers reactive state management, dependency injection, and route management, making it a comprehensive solution for developers.
+
+# Counter App
 * Description
   
 The application is a simple counter app that allows users to increment a counter and switch between light and dark themes. The app utilizes the GetX package for state management and theme handling.
