@@ -1,9 +1,9 @@
-# getx_state_mangment
+
+https://github.com/user-attachments/assets/7a94ce6c-c4de-4519-80e0-888f502b891b
+![emp3](https://github.com/user-attachments/assets/62b7afc9-3640-4b8f-bdb5-debd24c70004)# getx_state_mangment
 
 * Description
-* 
-* Overview
-* 
+  
 The application is a simple counter app that allows users to increment a counter and switch between light and dark themes. The app utilizes the GetX package for state management and theme handling.
 
 * Features
@@ -34,4 +34,16 @@ A new Flutter project.
 
 
 https://github.com/user-attachments/assets/7fafa805-3bd9-480a-9016-f1e73d88fe2f
+
+# Employee Details App
+
+<p>
+  <img src="https://github.com/user-attachments/assets/706a66a3-4b1a-435f-9dea-bb932546da7b" height=28% width=32%>
+    <img src="https://github.com/user-attachments/assets/c4ac011d-d1f9-4dd4-945d-2fb590e57faa" height=28% width=32%>
+    <img src="https://github.com/user-attachments/assets/5aab3c52-1d25-44f8-b316-dd41e25bf967" height=28% width=32%>
+    <img src="https://github.com/user-attachments/assets/935afaa2-caf1-4c30-b78b-1a53860e6c7b" height=28% width=32%>
+  </p>
+
+https://github.com/user-attachments/assets/3f82bb77-0885-4414-a61c-d6915ede9047
+
 
