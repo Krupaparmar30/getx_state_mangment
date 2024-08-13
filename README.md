@@ -1,6 +1,5 @@
 
-https://github.com/user-attachments/assets/7a94ce6c-c4de-4519-80e0-888f502b891b
-![emp3](https://github.com/user-attachments/assets/62b7afc9-3640-4b8f-bdb5-debd24c70004)# getx_state_mangment
+# getx_state_mangment
 
 * Description
   
