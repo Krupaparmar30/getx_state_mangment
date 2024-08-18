@@ -70,6 +70,14 @@ https://github.com/user-attachments/assets/7fafa805-3bd9-480a-9016-f1e73d88fe2f
 3. Update Details:
 
 👉 Function: Modify an existing employee’s information.
+
+👉 ⚙️ Technologies Used
+
+ * Flutter A powerful UI toolkit for crafting natively compiled applications for mobile, web, and desktop from a single codebase.
+ * GetX For state management, navigation, and dependency injection.
+ * flutter_heatmap_calendar  To create and customize the heat map for habit tracking.
+ * simple_gradient_text To apply gradient effects to text elements within the app.
+ * Isar Database  For lightweight and high-performance local data storage.
 <p>
   <img src="https://github.com/user-attachments/assets/706a66a3-4b1a-435f-9dea-bb932546da7b" height=28% width=32%>
     <img src="https://github.com/user-attachments/assets/c4ac011d-d1f9-4dd4-945d-2fb590e57faa" height=28% width=32%>
